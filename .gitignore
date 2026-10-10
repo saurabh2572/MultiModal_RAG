@@ -1,0 +1,11 @@
+.env
+.venv/
+.uv-cache/
+.uv-python/
+__pycache__/
+*.py[cod]
+data/processed/
+data/raw/*.pdf
+data/vector_db/
+data/search_index/
+logs/
